@@ -1,0 +1,9 @@
+
+	.users-list li{
+		cursor: pointer;
+	}
+
+	.glyphicon.glyphicon-hand-left{
+		font-size:80px;
+	}
+	
